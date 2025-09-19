@@ -6,5 +6,8 @@ int main()
     cout << "Привет, мир!";
     cout << "Bonjour le mode!";
     cout << "Hola Mundo!";
+    int a = 10;
+    int b = 10;
+    cout << a + b;
     return 0;
 }
